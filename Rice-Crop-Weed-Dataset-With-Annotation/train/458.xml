@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rice_case_worm</folder>
+	<filename>458.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Rice_case_worm\458.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rice_case_worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>121</ymin>
+			<xmax>428</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

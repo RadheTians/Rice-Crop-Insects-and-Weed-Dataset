@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mealy_bug</folder>
+	<filename>309.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Mealy_bug\309.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mealy_bug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>508</xmin>
+			<ymin>106</ymin>
+			<xmax>727</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mealy_bug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>244</ymin>
+			<xmax>500</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

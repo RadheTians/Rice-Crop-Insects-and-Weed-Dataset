@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rice_horned_caterpillar</folder>
+	<filename>565.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Rice_horned_caterpillar\565.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rice_horned_caterpillar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>92</ymin>
+			<xmax>731</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

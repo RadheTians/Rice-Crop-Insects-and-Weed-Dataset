@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GreenLeafhopper</folder>
+	<filename>2_1.jpg</filename>
+	<path>C:\models\research\object_detection\test_images\insect\GreenLeafhopper\2_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown_plant_leafhopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>152</ymin>
+			<xmax>576</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

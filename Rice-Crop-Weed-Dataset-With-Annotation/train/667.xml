@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Spiny_beetle</folder>
+	<filename>667.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Spiny_beetle\667.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spiny_beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>126</ymin>
+			<xmax>514</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

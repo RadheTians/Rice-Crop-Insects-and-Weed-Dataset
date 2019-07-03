@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Leaf_folder</folder>
+	<filename>291.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Leaf_folder\291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf_folder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>127</ymin>
+			<xmax>457</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

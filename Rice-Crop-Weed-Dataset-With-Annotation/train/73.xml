@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Brown_plant_leafhopper</folder>
+	<filename>73.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Brown_plant_leafhopper\73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown_plant_leafhopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>114</ymin>
+			<xmax>699</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

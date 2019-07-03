@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gall_midge</folder>
+	<filename>166.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Gall_midge\166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gall_midge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>157</ymin>
+			<xmax>560</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

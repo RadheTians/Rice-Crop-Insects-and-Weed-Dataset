@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stemborer</folder>
+	<filename>1.jpg</filename>
+	<path>C:\models\research\object_detection\test_images\insect\Stemborer\1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>574</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paddy_stemborer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>189</ymin>
+			<xmax>585</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

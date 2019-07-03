@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RiceSkipper</folder>
+	<filename>7.jpg</filename>
+	<path>C:\models\research\object_detection\test_images\insect\RiceSkipper\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>574</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rice_skipper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>171</ymin>
+			<xmax>678</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

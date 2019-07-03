@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Grasshopper</folder>
+	<filename>187.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Grasshopper\187.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Grasshopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>114</ymin>
+			<xmax>621</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Paddy_stemborer</folder>
+	<filename>384.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Paddy_stemborer\384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paddy_stemborer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>251</ymin>
+			<xmax>451</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

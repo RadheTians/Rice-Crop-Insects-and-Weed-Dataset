@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Armyworms</folder>
+	<filename>35.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Armyworms\35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworms</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>94</ymin>
+			<xmax>617</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

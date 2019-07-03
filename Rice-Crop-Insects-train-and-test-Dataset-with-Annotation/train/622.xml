@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rice_skipper</folder>
+	<filename>622.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Rice_skipper\622.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rice_skipper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>115</ymin>
+			<xmax>515</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

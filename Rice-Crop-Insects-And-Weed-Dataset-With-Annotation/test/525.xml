@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Rice_earhead_bug</folder>
+	<filename>525.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Rice_earhead_bug\525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rice_earhead_bug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>212</ymin>
+			<xmax>592</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

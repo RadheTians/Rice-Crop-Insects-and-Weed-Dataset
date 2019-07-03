@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Whorl_maggot</folder>
+	<filename>898.jpg</filename>
+	<path>C:\Users\Radhe Raman Tiwari\Pictures\ObjectDetection\Data\Whorl_maggot\898.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Whorl_maggot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>204</ymin>
+			<xmax>527</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>
